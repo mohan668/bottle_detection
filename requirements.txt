@@ -1,0 +1,6 @@
+Python #3.8 or higher(3.9 preferred)
+PyTorch
+OpenCV
+Ultralytics 
+#Install the requirements using one command 
+#pip install -r requirements.txt
